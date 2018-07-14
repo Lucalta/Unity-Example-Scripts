@@ -1,2 +1,2 @@
 # Unity-Example-Scripts
-Some scripts I used to teach the very basics of unity to kids. All the content is in italian.
+Questi sono alcuni degli script che ho usato per insegnare le basi dei giochi con Unity nella mia vecchia scuola. Sono pensati per essere incredibilmente semplici e ben documentati in modo tale da poter essere seguiti anche senza leggere il codice.
